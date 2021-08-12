@@ -11,13 +11,12 @@ import PoliceK from "./PoliceK";
 import Incidents from "./Incidents";
 
 export default function App() {
-  const [loggedIn, setloggedIn] = useState(localStorage.getItem('token') ? true : false)
  const [searchString, setSearchString] = useState("California");
 
 
   return (
     <div className="App">
-      <Navigation loggedIn={loggedIn}/>
+      <Navigation />
       <span><Link to='/About'>About Us</Link></span>
       <span><Link to='/PoliceK'>Victims</Link></span>
       <span><Link to='/Incidents'>Incidents</Link></span>

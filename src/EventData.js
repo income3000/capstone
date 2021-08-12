@@ -2,8 +2,6 @@ import React from 'react'
 import './EventData.css'
 import  {Carousel } from 'react-bootstrap';
 import { useState, useEffect } from 'react';
-import ReactPlayer from 'react-player';
-import Form from './Form';
 export default function EventData({searchString, setSearchString}) {
    
     const API_URL =
@@ -26,7 +24,7 @@ export default function EventData({searchString, setSearchString}) {
       
       useEffect(() => {
         getData(searchString);
-      }, [searchString]);
+      });
 
     return (
 <div>
