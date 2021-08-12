@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+About this app - This app is a reflection of a great passion of mine and that is to bring awareness to ours nations biggest cancer, and that is police brutality. The police are allowed to unjustly kill thousands every year and this needs to stop. They are supposed to be this highly trained force for good, yet they can kill an 11 year old boy with a toy gun and use the phrase "I was in fear of my life" to be absolved of any responsibilty or the life they just took. While if I or any other citizen killed one of them and then said "I was in fear of my life". we would be thrown in jail forever.
+We have allowed this 'above the law mentality' to fester into what is now a brutal score of unjust killings and unpunished deeds, and it has to stop. 
+    
+So with this app you will be able to see past instances of police using their power to subjugate and injure, instead of protect and serve. You will also be able to track the long list of police killings and sort it by state, city, date, age or any other filter. My hope is that we as a people stem the tide of murder and unjust brutality presented daily by our local police departments.  
