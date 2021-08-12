@@ -39,7 +39,7 @@ export default function EventData({searchString, setSearchString}) {
                  <p className="urCity">{ele.city}</p>
                  <p>👮‍♀️{ele.title}👮‍♂️</p>
               <p> 👀 <a href={ele.links[0]} alt="no video">{ele.links[0]}</a>👀</p>
-                <h3>😩<a href={ele.links[1]} alt="no video">{ele.links[1]}</a>😩</h3>
+              <h3>😩<a href={ele.links[1]} alt="no video">{ele.links[1]}</a>😩</h3>
            
              </div>
          </Carousel.Item>
